@@ -1,10 +1,14 @@
 import React from 'react'
+import Header from './sections/Header'
+import Hero from './sections/Hero'
 
 const App = () => {
   return (
-    <div>
-      <h1 className='text-red-300 text-center'>Helo</h1>
-    </div>
+    <main className='overflow-hidden'>
+      <Header/>
+      <Hero/>
+    
+    </main>
   )
 }
 
