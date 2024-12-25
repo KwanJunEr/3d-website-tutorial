@@ -10,5 +10,6 @@ Currently, two official plugins are available:
 <h1>Used Packages</h1>
 <ul>
   <li>React SlideDown - For Dropdown content</li>
-  <li>React Scolldown - for scrolling effect </li>
+  <li>React Scoll - for scrolling effect </li>
+  <li>React Countup - For Counting Effect</li>
 </ul>
